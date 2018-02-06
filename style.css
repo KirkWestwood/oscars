@@ -21,8 +21,8 @@
 	display: inline-block;
 }
 
-.frame{
+iframe{
 	display: inline-block;
-	width: 600px;
-	background-color: dimgray;
+	width: 1200px;
+	height: 800px;
 }
