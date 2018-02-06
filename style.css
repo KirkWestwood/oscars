@@ -1,28 +1,34 @@
-#date{													
+h1{													
 	font-family: 'Quicksand', sans-serif;	/*label underneath age gap*/
 	font-weight: 400;
-	font-size: 0.95em;
-	letter-spacing: .5px;
+	font-size: 1.8em;
+	letter-spacing: 1.15px;
+	color: #ffffff;
+	float: left;
+	display: block;
+	position: relative;
+	width: 900px;
+	margin-left: 80px;
+	margin-top:  40px;
+	height: 16px;
+}
+
+h2{													
+	font-family: 'Quicksand', sans-serif;	/*label underneath age gap*/
+	font-weight: 400;
+	font-size: 1.1em;
+	letter-spacing: 1.05px;
 	color: #717D99;
-	float: left;
+	clear: left;
 	display: inline-block;
 	position: relative;
-	width: 340px;
-	margin-left: 40px;
-	margin-top:  10px;
+	width: 600px;
+	margin-left: 80px;
+	margin-top:  5px;
 }
 
-.timekey{
-	height: 700px;
-	width: 100px;
-	background-color: #fff000;
-	position: relative;
-	float: left;
-	display: inline-block;
+.header{
+	height: 20px;
+	width: 1000px;
 }
 
-iframe{
-	display: inline-block;
-	width: 1200px;
-	height: 800px;
-}
