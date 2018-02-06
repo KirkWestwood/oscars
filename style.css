@@ -1,0 +1,28 @@
+#date{													
+	font-family: 'Quicksand', sans-serif;	/*label underneath age gap*/
+	font-weight: 400;
+	font-size: 0.95em;
+	letter-spacing: .5px;
+	color: #717D99;
+	float: left;
+	display: inline-block;
+	position: relative;
+	width: 340px;
+	margin-left: 40px;
+	margin-top:  10px;
+}
+
+.timekey{
+	height: 700px;
+	width: 100px;
+	background-color: #fff000;
+	position: relative;
+	float: left;
+	display: inline-block;
+}
+
+.frame{
+	display: inline-block;
+	width: 600px;
+	background-color: dimgray;
+}
